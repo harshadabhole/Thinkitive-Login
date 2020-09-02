@@ -1,0 +1,46 @@
+body { 
+    background-image:url("login-bg.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size:cover;
+    height: 70%;
+}
+img {
+
+    width:350px;
+    height:350px;
+    
+}
+button {
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 110px;
+    border:3px solid black;
+    box-shadow: 3px 3px black;
+}
+form{
+    padding:40px;
+}
+input[type="text"], label ,button,a{
+    padding:5px;
+    margin:15px;
+}
+#span {
+    color:red;
+    float:right;
+    margin-right:130px;
+    margin-top:10px;
+    
+}
+#logo {
+    float:left;
+    margin-left:300px;
+    margin-top:150px;
+}
+#form {
+    float:left;
+    margin-left:70px;
+    margin-top:160px;
+}
